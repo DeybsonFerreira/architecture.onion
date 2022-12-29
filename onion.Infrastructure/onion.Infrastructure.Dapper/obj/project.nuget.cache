@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PAJ7FQoTZh+IqjSif62ziEZUIbl1+OEjmn9HQas7jGtZwJKDNVVEomBbFGc8BqXvoRgSIyzkoDY9ChULTJICsw==",
+  "dgSpecHash": "537C7MUXMHXyGbg5eUzFwCzNP2H3mXYRhbLSnpE7eo9T3kIrcstyUaU0Dvsr32ELjJgUh+vc6AKwkS0LJU2Obg==",
   "success": true,
-  "projectFilePath": "C:\\GIT REPO\\onion-example\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
+  "projectFilePath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

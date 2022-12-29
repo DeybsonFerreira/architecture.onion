@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lP5HUyU33DeM47YBBUkWTbLB5UnQUTSmHI5ZLG2zTXKAh1+IDLrwuNKIPCulz2B91LktHLMxotDn4EGtAnC8EA==",
+  "dgSpecHash": "MCOkTka8Gk7LK3hC7/N4UEMdpg6V1nqQDMDw/KZmqhs7uGoLrI6m/zHqn3jNgsdndOR+vAmKaFQ+jLmwqa6BiA==",
   "success": true,
-  "projectFilePath": "C:\\GIT REPO\\onion-example\\onion.Domain\\onion.Domain.csproj",
+  "projectFilePath": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

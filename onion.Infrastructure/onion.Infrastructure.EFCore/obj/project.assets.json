@@ -1,37 +1,62 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "onion.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/onion.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/onion.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "onion.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../onion.Domain/onion.Domain.csproj",
+      "msbuildProject": "../../onion.Domain/onion.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "onion.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\Deybson\\.nuget\\packages\\": {}
+    "C:\\Users\\deybson.ferreira\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GIT REPO\\onion-example\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
+      "projectUniqueName": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
       "projectName": "onion.Infrastructure.EFCore",
-      "projectPath": "C:\\GIT REPO\\onion-example\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
-      "packagesPath": "C:\\Users\\Deybson\\.nuget\\packages\\",
-      "outputPath": "C:\\GIT REPO\\onion-example\\onion.Infrastructure\\onion.Infrastructure.EFCore\\obj\\",
+      "projectPath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
+      "packagesPath": "C:\\Users\\deybson.ferreira\\.nuget\\packages\\",
+      "outputPath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Deybson\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\deybson.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
+              "projectPath": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -59,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
