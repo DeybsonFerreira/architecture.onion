@@ -1,0 +1,12 @@
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\bin\Debug\net6.0\onion.Infrastructure.EFCore.deps.json
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\bin\Debug\net6.0\onion.Infrastructure.EFCore.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\bin\Debug\net6.0\onion.Infrastructure.EFCore.pdb
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.AssemblyInfo.cs
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\refint\onion.Infrastructure.EFCore.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\onion.Infrastructure.EFCore.pdb
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.EFCore\obj\Debug\net6.0\ref\onion.Infrastructure.EFCore.dll

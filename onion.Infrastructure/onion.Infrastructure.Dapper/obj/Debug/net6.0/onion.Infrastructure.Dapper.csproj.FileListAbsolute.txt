@@ -1,0 +1,12 @@
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.deps.json
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.pdb
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.csproj.AssemblyReference.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.AssemblyInfoInputs.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.AssemblyInfo.cs
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.csproj.CoreCompileInputs.cache
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\refint\onion.Infrastructure.Dapper.dll
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.pdb
+C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\ref\onion.Infrastructure.Dapper.dll
