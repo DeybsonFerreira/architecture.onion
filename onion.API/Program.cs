@@ -1,8 +1,11 @@
+using onion.API.extensions;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.ResolveCustomDependences();
 
 var app = builder.Build();
 

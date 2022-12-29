@@ -14,14 +14,16 @@ public class PersonController : ControllerBase
     public PersonController(ILogger<PersonController> logger, IPersonRepository personRepository)
     {
         _logger = logger;
-        _personRepository = personRepository;
+        // _personRepository = new Infrastructure.Dapper.Repositories.PersonRepository(); //usado pelo dapper
+        // _personRepository = new Infrastructure.EFCore.Repositories.PersonRepository(); //usado pela EF
+        _personRepository = personRepository; //usado pela Injeção dependencia
     }
 
     [HttpGet()]
     [Route("{personId:guid}")]
     public async Task<IActionResult> Get(Guid personId)
     {
-        _logger.LogInformation($"{personId}");
+        _logger.LogInformation($"PersonId Searched : {personId}");
         Person person = await _personRepository.GetAsync(personId);
         return Ok(person);
     }
