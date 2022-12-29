@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C93H2MLPZfQfHO8IVM6TiBF8ydPu8QPhoxnFqIJrv4YVyoviKovGH6yfEok/asyhj82vYL1W+pC9AOy2sp0GKA==",
+  "dgSpecHash": "H4rKIj45daPTFkQ8IjGPOvD3hQP77FF9g4Z1MBUWYlgP7XFWl2J1BxABw2TqFZF5xbWJw16twqyz/2o0e1cOpA==",
   "success": true,
-  "projectFilePath": "c:\\GIT\\architecture.onion\\onion.API\\onion.API.csproj",
+  "projectFilePath": "C:\\GIT\\architecture.onion\\onion.API\\onion.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\deybson.ferreira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\deybson.ferreira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

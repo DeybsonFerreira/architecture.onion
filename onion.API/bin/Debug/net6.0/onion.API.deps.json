@@ -70,11 +70,17 @@
         }
       },
       "onion.Infrastructure.Dapper/1.0.0": {
+        "dependencies": {
+          "onion.Domain": "1.0.0"
+        },
         "runtime": {
           "onion.Infrastructure.Dapper.dll": {}
         }
       },
       "onion.Infrastructure.EFCore/1.0.0": {
+        "dependencies": {
+          "onion.Domain": "1.0.0"
+        },
         "runtime": {
           "onion.Infrastructure.EFCore.dll": {}
         }

@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "onion.Infrastructure.Dapper/1.0.0": {
+        "dependencies": {
+          "onion.Domain": "1.0.0"
+        },
         "runtime": {
           "onion.Infrastructure.Dapper.dll": {}
+        }
+      },
+      "onion.Domain/1.0.0": {
+        "runtime": {
+          "onion.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "onion.Infrastructure.Dapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "onion.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

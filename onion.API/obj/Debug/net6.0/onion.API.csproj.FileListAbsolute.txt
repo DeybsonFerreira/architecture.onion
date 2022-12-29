@@ -31,3 +31,41 @@ C:\GIT REPO\onion-example\onion.API\bin\Debug\net6.0\onion.Infrastructure.Dapper
 C:\GIT REPO\onion-example\onion.API\bin\Debug\net6.0\onion.Infrastructure.EFCore.dll
 C:\GIT REPO\onion-example\onion.API\bin\Debug\net6.0\onion.Infrastructure.Dapper.pdb
 C:\GIT REPO\onion-example\onion.API\bin\Debug\net6.0\onion.Infrastructure.EFCore.pdb
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\appsettings.Development.json
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\appsettings.json
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.API.exe
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.API.deps.json
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.API.runtimeconfig.json
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.API.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.API.pdb
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Domain.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Infrastructure.Dapper.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Infrastructure.EFCore.dll
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Domain.pdb
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Infrastructure.Dapper.pdb
+C:\GIT\architecture.onion\onion.API\bin\Debug\net6.0\onion.Infrastructure.EFCore.pdb
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.csproj.AssemblyReference.cache
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.AssemblyInfoInputs.cache
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.AssemblyInfo.cs
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.MvcApplicationPartsAssemblyInfo.cs
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.MvcApplicationPartsAssemblyInfo.cache
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets\msbuild.onion.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets\msbuild.build.onion.API.props
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.onion.API.props
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.onion.API.props
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\scopedcss\bundle\onion.API.styles.css
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.csproj.CopyComplete
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.dll
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\refint\onion.API.dll
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.pdb
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\onion.API.genruntimeconfig.cache
+C:\GIT\architecture.onion\onion.API\obj\Debug\net6.0\ref\onion.API.dll

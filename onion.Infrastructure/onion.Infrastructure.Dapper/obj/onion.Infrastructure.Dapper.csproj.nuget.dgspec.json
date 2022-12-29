@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj": {}
+    "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
+    "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
+        "projectUniqueName": "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
         "projectName": "onion.Domain",
-        "projectPath": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
+        "projectPath": "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
         "packagesPath": "C:\\Users\\deybson.ferreira\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\architecture.onion\\onion.Domain\\obj\\",
+        "outputPath": "C:\\GIT\\architecture.onion\\onion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deybson.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj": {
+    "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
+        "projectUniqueName": "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
         "projectName": "onion.Infrastructure.Dapper",
-        "projectPath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
+        "projectPath": "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\onion.Infrastructure.Dapper.csproj",
         "packagesPath": "C:\\Users\\deybson.ferreira\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\obj\\",
+        "outputPath": "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.Dapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deybson.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
-                "projectPath": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj"
+              "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
+                "projectPath": "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj"
               }
             }
           }

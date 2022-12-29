@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "siSQJQCIXRir3VfOTeIj4olTI3ws6k8KljB0vm2cSkH7vVITY+5/Ih/ZlRkRAioB3lGsCw6HVyl+pdZt/GuNQA==",
+  "dgSpecHash": "H7K8mbonnL+d6gYVFHo/g/VIlqqzDdOewCXcqRTRi2uR/MmfeuPQdCtpmSLl1x722Kj+07JUlNfon1KU2qmXNA==",
   "success": true,
-  "projectFilePath": "c:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
+  "projectFilePath": "C:\\GIT\\architecture.onion\\onion.Infrastructure\\onion.Infrastructure.EFCore\\onion.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

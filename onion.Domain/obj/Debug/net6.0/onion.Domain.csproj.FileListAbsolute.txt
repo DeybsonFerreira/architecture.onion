@@ -10,3 +10,15 @@ C:\GIT REPO\onion-example\onion.Domain\obj\Debug\net6.0\onion.Domain.dll
 C:\GIT REPO\onion-example\onion.Domain\obj\Debug\net6.0\refint\onion.Domain.dll
 C:\GIT REPO\onion-example\onion.Domain\obj\Debug\net6.0\onion.Domain.pdb
 C:\GIT REPO\onion-example\onion.Domain\obj\Debug\net6.0\ref\onion.Domain.dll
+C:\GIT\architecture.onion\onion.Domain\bin\Debug\net6.0\onion.Domain.deps.json
+C:\GIT\architecture.onion\onion.Domain\bin\Debug\net6.0\onion.Domain.dll
+C:\GIT\architecture.onion\onion.Domain\bin\Debug\net6.0\onion.Domain.pdb
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.csproj.AssemblyReference.cache
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.AssemblyInfoInputs.cache
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.AssemblyInfo.cs
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.dll
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\refint\onion.Domain.dll
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\onion.Domain.pdb
+C:\GIT\architecture.onion\onion.Domain\obj\Debug\net6.0\ref\onion.Domain.dll

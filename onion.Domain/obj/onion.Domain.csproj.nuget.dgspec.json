@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {}
+    "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {}
   },
   "projects": {
-    "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
+    "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
+        "projectUniqueName": "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
         "projectName": "onion.Domain",
-        "projectPath": "c:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
+        "projectPath": "C:\\GIT\\architecture.onion\\onion.Domain\\onion.Domain.csproj",
         "packagesPath": "C:\\Users\\deybson.ferreira\\.nuget\\packages\\",
-        "outputPath": "c:\\GIT\\architecture.onion\\onion.Domain\\obj\\",
+        "outputPath": "C:\\GIT\\architecture.onion\\onion.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deybson.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

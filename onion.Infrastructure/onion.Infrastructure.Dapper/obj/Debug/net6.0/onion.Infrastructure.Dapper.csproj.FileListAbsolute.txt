@@ -10,3 +10,18 @@ C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\D
 C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\refint\onion.Infrastructure.Dapper.dll
 C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.pdb
 C:\GIT REPO\onion-example\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\ref\onion.Infrastructure.Dapper.dll
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.deps.json
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.dll
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Infrastructure.Dapper.pdb
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Domain.dll
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\bin\Debug\net6.0\onion.Domain.pdb
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.csproj.AssemblyReference.cache
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.AssemblyInfoInputs.cache
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.AssemblyInfo.cs
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.csproj.CoreCompileInputs.cache
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.csproj.CopyComplete
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.dll
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\refint\onion.Infrastructure.Dapper.dll
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\onion.Infrastructure.Dapper.pdb
+C:\GIT\architecture.onion\onion.Infrastructure\onion.Infrastructure.Dapper\obj\Debug\net6.0\ref\onion.Infrastructure.Dapper.dll
